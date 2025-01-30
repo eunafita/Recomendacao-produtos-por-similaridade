@@ -52,8 +52,8 @@ O dataset foi obtido do Kaggle Fashion Product Images e contém milhares de imag
 
 ### 📌 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/eunafita/Recomendacao-produtos-por-similaridade.git
+cd Recomendacao-produtos-por-similaridade
 ```
 ### 📌 2️⃣ Criar um ambiente virtual (opcional, mas recomendado)
 ```bash
